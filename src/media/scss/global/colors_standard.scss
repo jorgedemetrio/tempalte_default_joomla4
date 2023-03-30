@@ -1,0 +1,8 @@
+// Variables, Functions and Mixins
+@import "../tools/tools";
+
+:root {
+  --alldreams-color-primary: #{$standard-color-primary};
+  --alldreams-color-link: #{$standard-color-link};
+  --alldreams-color-hover: #{$standard-color-hover};
+}
